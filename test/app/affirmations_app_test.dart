@@ -9,6 +9,7 @@ import 'package:affirmations/features/onboarding/dependency_option_card.dart';
 import 'package:affirmations/features/reading/reading_screen.dart';
 import 'package:affirmations/state/app_controller.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/widgets.dart' show Scrollable;
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
